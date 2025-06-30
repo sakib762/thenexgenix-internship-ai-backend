@@ -4,7 +4,7 @@ This folder contains the Task 1 submission for the Aspire Internship Program.
 
 ## Description
 
-The document `project-portfolio-task1.docx` includes:
+The document `Aspire Internship Program_Task-1_Md Sakibur Rahaman.docx` includes:
 
 - A list of my past projects
 - Links to each project repository
