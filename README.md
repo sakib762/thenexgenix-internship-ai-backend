@@ -44,7 +44,7 @@ Daily and weekly reports, task breakdowns, and reflections are maintained in the
 
 - **Name**: [Md Sakibur Rahaman]
 - **Email**: [sakiburrahaman762@gmail.com , sakiburrahaman.aip@gmail.com]
-- **GitHub**: [Your GitHub Profile URL]
+- **GitHub**: [(https://github.com/sakib762)]
 
 ## License
 
