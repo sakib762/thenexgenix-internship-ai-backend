@@ -1,9 +1,0 @@
-[build]
-  base = "aspire-task2-breath-natureal-frontend"
-  publish = "aspire-task2-breath-natureal-frontend/build"
-  command = "npm run build"
-
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
